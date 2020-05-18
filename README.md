@@ -1,6 +1,9 @@
 # GA-360-Iteration-1
 This is analysis for a blog project required in Udacity Data Scientist Nanodegree. It uses freely available data from Google Open Datasets.
 
+[Link to Medium Post](https://medium.com/@ambreen2006/merchandise-store-3aef4090ed1a)
+<br/><br/>
+
 CRISP-DM process followed is documented below
 
 ## Dataset 
@@ -10,7 +13,9 @@ https://console.cloud.google.com/marketplace/details/obfuscated-ga360-data/obfus
 
 The notebook `Google Analytics Sample Big Query.ipynb` contains the big query used for downloading the data which is then saved to CSV.
 
-The big query requires pre-setup and installation of several packages.
+Big query requires pre-setup and installation of several packages.
+
+`GA-360-MerchantStore.ipynb` contains the work done for this project.
 
 ## Data preparation
 
